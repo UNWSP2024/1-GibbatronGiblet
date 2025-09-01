@@ -5,4 +5,4 @@ def proverbs_22_29():
     print('he will not stand obscure men."')
     print('      (Proverbs 22:29)')
 #Written 9/1/25 by Logan Gibson. The program's name is "Proverbs 22:29"
-proverbs_22_29() 
+proverbs_22_29()
