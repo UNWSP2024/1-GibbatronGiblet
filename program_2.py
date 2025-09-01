@@ -4,6 +4,4 @@ def proverbs_22_29():
     print("He will stand before kings;")
     print('he will not stand obscure men."')
     print('      (Proverbs 22:29)')
-    
-
 proverbs_22_29()
